@@ -7,5 +7,5 @@ google_oriole:
   use_internal_repository: false
 
   packages:
-    - adaptation-oneplus-oriole
-    - adaptation-oneplus-oriole-configs
+    - adaptation-droidian-oriole
+    - adaptation-oriole-configs
