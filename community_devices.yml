@@ -1,0 +1,11 @@
+google_oriole:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 32
+  use_internal_repository: false
+
+  packages:
+    - adaptation-oneplus-oriole
+    - adaptation-oneplus-oriole-configs
