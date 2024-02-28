@@ -9,3 +9,4 @@ google_tangorpro:
   packages:
     - adaptation-droidian-tangorpro
     - adaptation-tangorpro-configs
+    - android-system-gsi-33
