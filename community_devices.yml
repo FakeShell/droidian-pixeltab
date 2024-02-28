@@ -1,11 +1,11 @@
-google_oriole:
+google_tangorpro:
   type: image
   arch: arm64
   edition: phosh
   variant: phone
-  apilevel: 32
+  apilevel: 33
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-oriole
-    - adaptation-oriole-configs
+    - adaptation-droidian-tangorpro
+    - adaptation-tangorpro-configs
